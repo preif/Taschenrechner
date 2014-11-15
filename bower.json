@@ -1,0 +1,18 @@
+{
+  "name": "Taschenrechner",
+  "version": "0.0.1",
+  "description": "Taschenrechner für mobile Browser",
+  "main": "src/index.html",
+  "authors": [
+    "Peter Reif"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components",
+    "test",
+    "tests"
+  ]
+}
